@@ -1,0 +1,10 @@
+button {
+    color: white;
+    background-color: purple;
+    font-family: "Chivo";
+    margin-top: 1em;
+    width: 40%;
+    height: 20%;
+    border-radius: 10px;
+    font-size: 20px;
+}

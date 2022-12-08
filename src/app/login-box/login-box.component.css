@@ -1,0 +1,14 @@
+div {
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    padding: 2em;
+    padding-bottom: 0em;
+    margin-top: 5em;
+    height: 80%;
+}
+h2 {
+    font-family: "Chivo";
+    font-size: 1.8em;
+}
